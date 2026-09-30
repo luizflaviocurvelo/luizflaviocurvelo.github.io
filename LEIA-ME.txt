@@ -1,0 +1,12 @@
+SITE BIOGRÁFICO — LUIZ FLÁVIO CURVELO DE JESUS
+
+1. Extraia o ZIP.
+2. No repositório luizflaviocurvelo.github.io, envie index.html, sitemap.xml e robots.txt (não envie apenas o ZIP).
+3. Confirme as alterações no GitHub.
+4. Em Settings > Pages, escolha Deploy from a branch, main, /(root), Save.
+5. Depois da publicação, acesse https://luizflaviocurvelo.github.io/.
+6. Cadastre o endereço no Google Search Console e envie sitemap.xml.
+
+A foto está incorporada no HTML; não é necessário enviá-la separadamente.
+Confira a autorização de uso da fotografia e revise os dados biográficos antes de publicar.
+O sitemap facilita a descoberta, mas não garante indexação.
